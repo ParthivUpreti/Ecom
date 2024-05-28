@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color:white;
+}
+.btn{
+    padding:5px;
+    width:2em;
+    height: 2em;
+}
+.navicon{
+    display: flex;
+    align-items: center;
+    gap:5em;
+    margin-right: 2em;
+    font-weight: 200;
+    font-size: large;
+}
+.login{
+    border-radius: 5px;
+    color:white;
+    background-color: blue;
+    height: 1.5em;
+}
+.searchbar{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    height: 1.6em;
+    width:25em;
+}
+.inputbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navimg{
+    width:2.5em;
+    height: 2.5em;
+}
+a{
+    text-decoration: none;
+}

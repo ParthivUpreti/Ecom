@@ -1,0 +1,43 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text{
+    font-size:14px;
+}
+.logo{
+    height: 60px;
+    width:60px;
+    border-radius: 50%;
+    background-position: center center;
+}
+.btn{
+    background-color:rgb(73, 73, 240);
+    color:white;
+    padding:5px;
+    border-radius: 15px;
+    width:5.5em;
+    border:1px solid white;
+    margin-left:8px;
+}
+.input{
+    border-radius:15px;
+    padding:5px;
+}
+.media{
+    display:flex;
+    gap:7px;
+}
+ul{
+    list-style: none;
+}
+.heading{
+    margin:8px 0px;
+    font-weight: 700;
+}
+.container{
+    background-color: rgb(58, 56, 56); 
+    color:white;
+    padding:2em 1em;
+}

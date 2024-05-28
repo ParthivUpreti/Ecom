@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color:black;
+    margin:10px 0px;
+}
+a:hover{
+    background-color: rgb(215, 215, 215);
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    overflow:auto;
+    max-height: 220px;
+    width:22em;
+}

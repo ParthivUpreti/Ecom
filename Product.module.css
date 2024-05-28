@@ -1,0 +1,41 @@
+.img{
+    width:300px;
+    height:280px;
+    border:2px solid red;
+    padding: 15px;
+}
+.title{
+    font-weight: bold;
+    font-size:1.2em;
+    margin:8px;
+}
+.container{
+    border:2px solid black;
+    margin:10px;
+    padding:10px;
+}
+.btn{
+    background-color: rgb(255, 175, 25);
+    color:black;
+    height:2em;
+    padding: 5px;
+    border-radius: 10px;
+    border:1px transparent;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: orange;
+}
+.price{
+    display: flex;
+    margin:10px;
+    font-weight: bold;
+    font-size: 1.3em;
+    align-items: center;
+    justify-content: center;
+}
+.description{
+    font-weight: 500;
+    margin:20px;
+}
